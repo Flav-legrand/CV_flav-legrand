@@ -1,0 +1,37 @@
+
+h1, h2, h3, h4 {
+    font-family: 'Oswald', Impact, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    margin: 0 0 15px 0;
+    padding: 0;
+    color: #66BFBF;
+    font-size: 300%;
+    border-color: #66BFBF;
+    background-color: #3479ab;
+}
+body{
+    background-color: #33c5c5;
+}
+
+hr {
+    background-color: rgb(10, 95, 104);
+    border-style:  none;
+    border-color: rgb(18, 4, 4);
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 2px;
+    width: 5%;
+}
+ol{
+    background-color: #33c5c5;
+    height: 2px;
+    width: 5%;
+    font-size: 150%;
+
+}
+
+
+
+.broccoli{
+    background-color: red;
+}
